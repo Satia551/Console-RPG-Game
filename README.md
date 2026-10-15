@@ -1,7 +1,7 @@
 # Console-RPG-Game
 A object-oriented console RPG game written in C#. Features class selection, mana/cooldown mechanics, inventory management, and interactive combat logs.
 
-![Gameplay Preview](preview.png)
+![Gameplay Preview](Preview.png)
 
 ## Features
 * **OOP Design:** Custom classes for Heroes (`Mage`, `Warrior`) and Enemies (`Dragon`).
